@@ -1,0 +1,5 @@
+wheel
+Django
+Django-rest-framework
+psycopg2-binary
+
